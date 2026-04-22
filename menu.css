@@ -10,13 +10,13 @@
     padding: 0px;
     margin: 0px;
     overflow: hidden;
-    width: 60%;
+    width: 100%;
 }
 .navbar a:hover{
     background-color: hsl(0,0%,10%);
     font-size: 22px;
 }
-.narbar li{
-    float: top;
-    padding-left: 20px;
+.navbar li{
+    float: left;
+    padding-left: 140px;
 }
